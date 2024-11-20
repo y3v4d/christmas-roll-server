@@ -1,0 +1,44 @@
+[
+    {
+        "username": "bartek",
+        "password": "1234",
+
+        "displayName": "Bartuś"
+    },
+    {
+        "username": "jonasz",
+        "password": "1234",
+
+        "displayName": "Jonaszek",
+
+        "blacklist": ["monika", "mateusz"],
+        "priority": true
+    },
+    {
+        "username": "mama",
+        "password": "1234",
+
+        "displayName": "Mama"
+    },
+    {
+        "username": "tata",
+        "password": "1234",
+
+        "displayName": "Tata"
+    },
+    {
+        "username": "monika",
+        "password": "1234",
+
+        "displayName": "Monia",
+
+        "blacklist": ["jonasz", "mateusz"],
+        "priority": true
+    },
+    {
+        "username": "mateusz",
+        "password": "1234",
+
+        "displayName": "Mateusz"
+    }
+]
